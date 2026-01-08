@@ -4,7 +4,10 @@ This is a 2D side-scrolling delivery game made in Processing (Java mode). You pl
 
 Each house has a floating cake sign showing what kind it wants. Drop the correct cake as you fly over to earn points and move to the next level. Your goal is to complete all deliveries before the timer reaches zero.
 
+**Demo:** https://youtu.be/f5C5WZ5eVGI
+
 # How to Play
+
 ### Controls
 Use the arrow keys to fly up, down, left, and right
 Click a cake icon (top-right) to drop that cake or press 1, 2, or 3 to drop a specific cake
